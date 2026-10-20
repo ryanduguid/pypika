@@ -1832,15 +1832,15 @@ Crafted with ♥ in Berlin.
 
 .. |BuildStatus| image:: https://github.com/kayak/pypika/workflows/Unit%20Tests/badge.svg
    :target: https://github.com/kayak/pypika/actions
-.. |CoverageStatus| image:: https://coveralls.io/repos/kayak/pypika/badge.svg?branch=master
+.. |CoverageStatus| image:: https://img.shields.io/coverallsCoverage/github/kayak/pypika?branch=master&style=flat&labelColor=000000
    :target: https://coveralls.io/github/kayak/pypika?branch=master
-.. |Codacy| image:: https://api.codacy.com/project/badge/Grade/6d7e44e5628b4839a23da0bd82eaafcf
+.. |Codacy| image:: https://img.shields.io/codacy/grade/6d7e44e5628b4839a23da0bd82eaafcf?style=flat&labelColor=000000
    :target: https://www.codacy.com/app/twheys/pypika
-.. |Docs| image:: https://readthedocs.org/projects/pypika/badge/?version=latest
+.. |Docs| image:: https://img.shields.io/readthedocs/pypika/latest?style=flat&labelColor=000000
    :target: http://pypika.readthedocs.io/en/latest/
-.. |PyPi| image:: https://img.shields.io/pypi/v/pypika.svg?style=flat
+.. |PyPi| image:: https://img.shields.io/pypi/v/pypika.svg?style=flat&labelColor=000000&color=66023C
    :target: https://pypi.python.org/pypi/pypika
-.. |License| image:: https://img.shields.io/hexpm/l/plug.svg?maxAge=2592000
+.. |License| image:: https://img.shields.io/hexpm/l/plug.svg?maxAge=2592000&style=flat&labelColor=000000&color=66023C
    :target: http://www.apache.org/licenses/LICENSE-2.0
 
 .. _available_badges_end:
